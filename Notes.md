@@ -2,6 +2,7 @@ Sound
 
 1. Podcasting
 
+![image i just uploaded](podcast1.mp3)
 
 2. Sonification 
 
@@ -56,6 +57,7 @@ Poster
 ![image i just uploaded](poster5.JPG)
 ![image i just uploaded](poster=Nenqayni.png)
 ![image i just uploaded](poster=Nenqayni1.png)
+![image i just uploaded](poster-red.svg)
 
 - I had an issue trying to do the poster with my essay using the template because it kept moving when I tried to select my texts
 - Other than that, it wass fairly easy to use 
