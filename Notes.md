@@ -2,14 +2,15 @@ Sound
 
 1. Podcasting
 
-![image i just uploaded](podcast1.mp3)
+- I live using audacity, it was easier to use then I expected.
+
+https://drive.google.com/file/d/194KKfUvt-hEXxcvSEO-Z2HU7WSTVmxqC/view?usp=sharing
 
 2. Sonification 
 
 ![image i just uploaded](sonifi1.JPG)
 
--	What tones, sounds, settings make sense given your data? How do different choices affect the meaning of what you’ve created? Is there anything meaningful? Save your music and your notes/thoughts on making it, to your repository.
--	I switched to the weather report one to see and the sound went up as the graph went up
+-	I switched to the weather report one to see and the sound went up as the graph went up. I believe rather than it being music, it more like patterns that could be identified using sound. 
 -	Even when I change the instrument, the notes can be recognized …. It influence the feel, the piono feel softer compared to the mandolin 
 
 Mapping 
@@ -39,9 +40,8 @@ https://uploads.knightlab.com/storymapjs/eb71e3ba28cfb9dd2921a238e08bf84b/story/
 
 <iframe src="https://uploads.knightlab.com/storymapjs/eb71e3ba28cfb9dd2921a238e08bf84b/story/index.html" frameborder="0" width="100%" height="800"></iframe>
 
--	Leaflet 
--	Had a trouble with setting up the web-map into a directory 
--	Then I though a mistake with my map as it was missing the overlapping map but it was because I was not yet at that step 
+-	Had a trouble with setting up the web-map into a directory, but it worked finally when I used anaconda prompt.
+-	Then I though, I made a mistake with my map as it was missing the overlapping map but it was because I was not there yet.  
 
 http://mapwarper.net/maps/tile/48160/{z}/{x}/{y}.png
 
@@ -60,7 +60,7 @@ Poster
 ![image i just uploaded](poster-red.svg)
 
 - I had an issue trying to do the poster with my essay using the template because it kept moving when I tried to select my texts
-- Other than that, it wass fairly easy to use 
+- Other than that, it was fairly easy to use 
 
 Static Websites
 
@@ -68,4 +68,4 @@ Static Websites
 ![image i just uploaded](staticweb22.JPG)
 ![image i just uploaded](staticwebsite3.JPG)
 
-- It was nice and simple. 
+- It was nice and simple. I like it. 
