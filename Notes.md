@@ -46,6 +46,8 @@ http://mapwarper.net/maps/tile/48160/{z}/{x}/{y}.png
 
 Poster 
 
+![image i just uploaded](ink1.JPG)
+![image i just uploaded](inkspace.JPG)
 ![image i just uploaded](posters.JPG)
 ![image i just uploaded](poster1.JPG)
 ![image i just uploaded](poster2.JPG)
@@ -58,8 +60,8 @@ Poster
 
 Static Websites
 
-![image i just uploaded](staticwebsite.JPG)
-![image i just uploaded](static website2.JPG)
-![image i just uploaded](static website3.JPG)
+![image i just uploaded](staticwebsite(1).JPG)
+![image i just uploaded](staticwebsite (2).JPG)
+![image i just uploaded](staticwebsite3.JPG)
 
 - It was nice and simple. 
