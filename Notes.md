@@ -15,7 +15,6 @@ https://drive.google.com/file/d/194KKfUvt-hEXxcvSEO-Z2HU7WSTVmxqC/view?usp=shari
 
 Mapping 
 
-![image i just uploaded](mapping1.JPG)
 ![image i just uploaded](mapping2.JPG)
 ![image i just uploaded](mapping3.JPG)
 ![image i just uploaded](mapping4.JPG)
@@ -34,16 +33,18 @@ Mapping
 ![image i just uploaded](mapping17.JPG)
 ![image i just uploaded](mapping18.JPG)
 
+-	Had a trouble with setting up the web-map into a directory, but it worked finally when I used anaconda prompt.
+-	Then I though, I made a mistake with my map as it was missing the overlapping map but it was because I was not there yet.  
 
+StoryMap
 
 https://uploads.knightlab.com/storymapjs/eb71e3ba28cfb9dd2921a238e08bf84b/story/index.html
 
 <iframe src="https://uploads.knightlab.com/storymapjs/eb71e3ba28cfb9dd2921a238e08bf84b/story/index.html" frameborder="0" width="100%" height="800"></iframe>
 
--	Had a trouble with setting up the web-map into a directory, but it worked finally when I used anaconda prompt.
--	Then I though, I made a mistake with my map as it was missing the overlapping map but it was because I was not there yet.  
-
 http://mapwarper.net/maps/tile/48160/{z}/{x}/{y}.png
+
+- It was a great tool. I had a bit of trouble getting it to flow and finding a topic that would make sense. 
 
 Poster 
 
