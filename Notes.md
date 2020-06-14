@@ -54,6 +54,8 @@ Poster
 ![image i just uploaded](poster3.JPG)
 ![image i just uploaded](poster4.JPG)
 ![image i just uploaded](poster5.JPG)
+![image i just uploaded](poster=Nenqayni.JPG)
+![image i just uploaded](poster=Nenqayni1.JPG)
 
 - I had an issue trying to do the poster with my essay using the template because it kept moving when I tried to select my texts
 - Other than that, it wass fairly easy to use 
