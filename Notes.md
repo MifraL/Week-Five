@@ -60,8 +60,8 @@ Poster
 
 Static Websites
 
-![image i just uploaded](staticwebsite.JPG)
-![image i just uploaded](staticwebsite (2).JPG)
+![image i just uploaded](staticweb2.JPG)
+![image i just uploaded](staticweb22.JPG)
 ![image i just uploaded](staticwebsite3.JPG)
 
 - It was nice and simple. 
