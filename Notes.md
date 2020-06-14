@@ -46,6 +46,12 @@ https://uploads.knightlab.com/storymapjs/eb71e3ba28cfb9dd2921a238e08bf84b/story/
 http://mapwarper.net/maps/tile/48160/{z}/{x}/{y}.png
 
 - It was a great tool. I had a bit of trouble getting it to flow and finding a topic that would make sense. 
+- I had changed the title but it was not shown... even when I saved and published the changes 
+- So I copied the storymap and renamed it and it worked.
+
+https://uploads.knightlab.com/storymapjs/eb71e3ba28cfb9dd2921a238e08bf84b/shows-i-loved/index.html
+
+<iframe src="https://uploads.knightlab.com/storymapjs/eb71e3ba28cfb9dd2921a238e08bf84b/shows-i-loved/index.html" frameborder="0" width="100%" height="800"></iframe>
 
 Poster 
 
