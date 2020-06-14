@@ -3,6 +3,7 @@ Sound
 1. Podcasting
 
 - I live using audacity, it was easier to use then I expected.
+- I just don't like how my voice sounds... 
 
 https://drive.google.com/file/d/194KKfUvt-hEXxcvSEO-Z2HU7WSTVmxqC/view?usp=sharing
 
