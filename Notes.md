@@ -2,7 +2,7 @@ Sound
 
 1. Podcasting
 
-![image i just uploaded](podcast1.mp3)
+![image i just uploaded](podcast1.JPG)
 
 2. Sonification 
 
