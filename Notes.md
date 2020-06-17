@@ -69,4 +69,4 @@ Static Websites
 ![image i just uploaded](staticwebsite3.JPG)
 
 - It was nice and simple. 
-- https://github.com/MifraL/static.github.io/tree/master
+- https://mifral.github.io/Mifra.github.io/
