@@ -2,7 +2,7 @@ Sound
 
 1. Podcasting
 
-![image i just uploaded](podcast1.JPG)
+- I have the file on the repository
 
 2. Sonification 
 
